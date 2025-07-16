@@ -5,12 +5,6 @@
 
 ---
 
-## Descripción
-
-Este script simula una ruleta con distintas técnicas de apuestas (actualmente soporta Martingala e Inverse Labouchere) para apostar en par o impar. Permite ver cómo estas estrategias, aunque populares, no garantizan ganancias y que la casa siempre tiene ventaja.
-
----
-
 ## Características
 
 - Simulación de técnicas de apuestas populares en ruleta:
