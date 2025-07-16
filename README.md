@@ -16,13 +16,6 @@
 
 ---
 
-## Requisitos
-
-- Bash shell (versión 4 o superior recomendada).
-- Terminal compatible con secuencias ANSI para colores.
-
----
-
 ## Uso
 
 ```bash
